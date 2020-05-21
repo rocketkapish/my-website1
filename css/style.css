@@ -1,0 +1,158 @@
+
+h3{
+color: #11999e;
+
+}
+
+
+
+hr{
+  border-style: dotted none none none;
+  height:20px;
+  width: 60px;
+  border-width: 7px;
+  border-color: grey;
+  margin: 100px auto;
+}
+p{
+  font-size:
+  25px;
+
+}
+
+h2{
+
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h1{
+  margin: 0 0 0 0;
+  font-size: 4rem ;
+  margin-top: 50px  ;
+  color: #66bfbf;
+
+}
+body{
+  margin: 0 0 30px 0;
+  text-align: center;
+  font-family: "Handlee", cursive;
+
+}
+
+
+
+.top-container{
+  background-color: #E4F9F5;
+
+  padding-top: 100px;
+  display: block;
+}
+.middle-container{
+  background-color: rgb(230,255,255);
+  font-family: "Handlee", cursive;
+  
+
+}
+.bottom-container{
+  padding: 50px 0  20px;
+  background-color: #66bfbf;
+}
+.cloud-above{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+
+}
+.cloud-bottom{
+  position: absolute;
+  left: 475px;
+  bottom: 300px;
+}
+.profilepic{
+  border: none;
+  border-radius: 100%;
+  border-color: white;
+  height: 250px;
+
+  margin: 10px;
+
+}
+.web_image{
+  border-style: none;
+  border-radius: 100%;
+  border-color: white;
+  width: 25%;
+  float: left;
+  padding: 30px;
+
+}
+.public-speaking{
+  border-style: solid;
+  border-radius: 100%;
+  border-color: white;
+  width: 25%;
+  float: right;
+}
+.btn{
+  font-size: 20px;
+
+}
+a:hover{
+  color: red;
+}
+a{
+  text-decoration: none;
+  color: #11999e;
+}
+.webd{
+  font-weight: normal;
+  color: #66bfbf;
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 20px;
+}
+.para-public-speak{
+}
+
+
+  .btn {
+  	box-shadow: 0 10px 14px -7px #066cfb;
+  	background:linear-gradient(to bottom, #66bfbf 5%, #66bfbf 100%);
+  	background-color:#66bfbf;
+  	border-radius:4px;
+  	border:1px solid #66bfbf;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:18px;
+  	font-weight:bold;
+  	padding:13px 12px;
+  	text-decoration:none;
+  	text-shadow:0 0 0 #5b8a3c;
+  }
+  .btn:hover {
+  	background:linear-gradient(to bottom, #66bfbf 5%, #66bfbf 100%);
+  	background-color:#66bfbf;
+  }
+  .btn:active {
+  	position:relative;
+  	top:1px;
+  }
+.contact-me{
+  padding-bottom: 10px;
+}
+.footer-link{
+  color: black;
+  padding: 10px;
+
+}
+.copyright{
+  padding: 20px 0 0 0;
+  font-size: .75rem;
+}
